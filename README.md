@@ -18,6 +18,7 @@
 Query: [1_customer_segmentation.sql](1_customer_segmentation.sql)
 
 ***Visualisation:***
+
 <img src="/images/output.png" alt="LTV Distribution" width="600">
 
 
@@ -45,6 +46,7 @@ Query: [1_customer_segmentation.sql](1_customer_segmentation.sql)
 - Query: [2_cohort_analyis.sql](/2_cohort_analysis.sql)
 
 ***Visualisation:***
+
 <img src="/images/customer_revenue.png" alt="Cohort Analysis" width="600">
 
 **Key findings:**
@@ -66,6 +68,7 @@ Query:
 - Calculated customer-specific metrics
 
 **Visualization**
+
 <img src="/images/churn_customer.png" alt="Churning customers" width="600">
 
 **Key findings**
