@@ -18,7 +18,8 @@
 Query: [1_customer_segmentation.sql](1_customer_segmentation.sql)
 
 ***Visualisation:***
-![LTV Distribution](/images/output.png)
+<img src="/images/output.png" alt="LTV Distribution" width="600">
+
 
 **Key findings:**
 - High-value segment (25% of customer) drives 66% of revenue($135.4M)
@@ -44,7 +45,8 @@ Query: [1_customer_segmentation.sql](1_customer_segmentation.sql)
 - Query: [2_cohort_analyis.sql](/2_cohort_analysis.sql)
 
 ***Visualisation:***
-![Cohort Analysis](/images/customer_revenue.png)
+<img src="/images/customer_revenue.png" alt="Cohort Analysis" width="600">
+
 **Key findings:**
 - It’s clear that customers from recent years are bringing in less revenue compared to older ones. Cohorts from 2016 to 2019 performed really well, staying consistently high, while those from 2020 onward have been dropping off more noticeably. The trend line shows that this is a pattern that’s speeding up. Something about the experience changed, and it’s worth figuring out what worked so well in those earlier years.
 - NOTE: Net revenue increase due to larger customer base.
@@ -64,7 +66,7 @@ Query:
 - Calculated customer-specific metrics
 
 **Visualization**
-![Churning customers](/images/churn_customer.png)
+<img src="/images/churn_customer.png" alt="Churning customers" width="600">
 
 **Key findings**
 
